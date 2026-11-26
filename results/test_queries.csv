@@ -1,0 +1,11 @@
+test_id,query,expected_documents,top_document_id,top_document,top_similarity_score,results_returned,status
+TC01,Explain neural networks used in deep learning.,"DOC008, DOC009, DOC017",DOC008,Artificial Neural Networks,0.30027340319693974,5,PASS
+TC02,How does Python support object oriented programming?,"DOC001, DOC002",DOC002,Object-Oriented Programming,0.4017665429515497,5,PASS
+TC03,How can SQL joins combine tables in a relational database?,"DOC021, DOC022",DOC021,Database Management Systems,0.22417813275146925,5,PASS
+TC04,How does TF-IDF measure term importance?,DOC013,DOC013,TF-IDF Vectorization,0.28093480690785033,5,PASS
+TC05,How can a computer identify objects in a photo?,"DOC016, DOC017",DOC002,Object-Oriented Programming,0.14025506065790622,5,PARTIAL
+TC06,Explain encryption and cryptography for data protection.,DOC027,DOC027,Cryptography and Data Protection,0.33851750815633164,5,PASS
+TC07,How do supervised learning and model evaluation work?,"DOC007, DOC010",DOC007,Supervised and Unsupervised Learning,0.26281255492025946,5,PASS
+TC08,xylophone volcano penguin,,,No results,0.0,0,PASS
+TC09,   ,,,No results,0.0,0,PASS
+TC10,!!!,,,No results,0.0,0,PASS

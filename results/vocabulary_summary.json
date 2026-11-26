@@ -1,0 +1,19 @@
+{
+    "total_documents": 30,
+    "total_categories": 6,
+    "vocabulary_size": 2119,
+    "tfidf_matrix_dimensions": [
+        30,
+        2119
+    ],
+    "non_zero_values": 2616,
+    "ngram_range": [
+        1,
+        2
+    ],
+    "stop_words": "english",
+    "total_test_cases": 10,
+    "passed": 9,
+    "partial": 1,
+    "failed": 0
+}
